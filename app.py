@@ -8,8 +8,8 @@ from streamlit_autorefresh import st_autorefresh
 
 # Configuration de la page
 st.set_page_config(
-    page_title="🔒 Détection de Fraude",
-    page_icon="🔒",
+    page_title=" Détection de Fraude",
+    page_icon="",
     layout="wide"
 )
 
